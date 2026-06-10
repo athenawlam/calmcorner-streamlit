@@ -1,4 +1,4 @@
-# calmcorner-ai
+# calmcorner-streamlit
 # CalmCorner: an AI Emotional Regulation Companion
 ### AIML Project: LLM App Investigation
 
